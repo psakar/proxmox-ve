@@ -1,3 +1,9 @@
+proxmox-ve (9.2.0) trixie; urgency=medium
+
+  * bump for Proxmox VE 9.2
+
+ -- Proxmox Support Team <support@proxmox.com>  Wed, 20 May 2026 04:51:49 +0200
+
 proxmox-ve (9.1.0) trixie; urgency=medium
 
   * bump for Proxmox VE 9.1
