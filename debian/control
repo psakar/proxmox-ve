@@ -18,7 +18,7 @@ Depends: apt,
          pve-manager (>= 9.0~),
          pve-qemu-kvm,
          qemu-server (>= 9.0~),
-         systemd-sysv,
+         systemd-sysv <!pkg.proxmox-ve.lsbservice>,
          ${misc:Depends},
 Description: Proxmox Virtual Environment
  The Proxmox Virtual Environment is an easy to use Open Source
